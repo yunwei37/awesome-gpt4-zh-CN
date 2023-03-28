@@ -1,4 +1,4 @@
-# 好棒的 GPT-4 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 精选 GPT-4 指南 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > 关于 GPT-4 语言模型的经过筛选的提示、工具、和资源列表。
 
@@ -97,7 +97,6 @@
   贡献者：[@radi-cho](https://github.com/radi-cho)
   来源：[GPT-4 技术报告](https://cdn.openai.com/papers/gpt-4.pdf)
   
-  ```
 化合物相似性和购买工具使用示例。
 尽可能回答以下问题。
 您可以使用以下工具：
