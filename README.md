@@ -66,6 +66,7 @@
 
 ### 产品集成
 
+- Notion 用GPT-4帮助用户修改笔记，矫正语法错误，生成解释和总结: https://www.notion.so/product/ai 
 - Khan Academy 将 GPT-4 作为每个学生的定制导师: https://openai.com/customer-stories/khan-academy
     - GPT-4 Khan Academy 深入演示: https://www.youtube.com/watch?v=rnIgnS8Susg
 - Be My Eyes 利用 GPT-4 转化视觉障碍: https://openai.com/customer-stories/be-my-eyes
